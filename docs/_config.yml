@@ -22,7 +22,7 @@ title: josrot's blog
 email: josht2838@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   josrot's blog to write down tech related things.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://josrot.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: josrot
